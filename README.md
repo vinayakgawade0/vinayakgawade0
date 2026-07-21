@@ -6,9 +6,9 @@ I am a backend-focused engineer architecting scalable microservices and enterpri
 
 ### 👨‍💻 About Me
 - 🏢 Currently building enterprise-grade systems as a Senior Software Engineer.
-- ⚙️ Specializing in **Java**, **Spring Boot**, and modular **Microservices Architecture**.
-- ☁️ Experienced with data pipelines and distributed systems using **Kafka**, **NiFi**, and **AWS S3**.
-- 💡 Passionate about clean code, standardizing CI/CD with **Docker/Kubernetes**, and maintaining high code coverage.
+- ⚙️ Specializing in **Java**, **Spring Boot** and **Angular** *Microservices Architecture*.
+- ☁️ Experienced with data pipelines and distributed systems using **Kafka**, **NiFi** and **AWS S3**.
+- 💡 Passionate about clean code, standardizing CI/CD with **Docker/Kubernetes** and maintaining high code coverage.
 
 ### 🛠️ Tech Stack
 
@@ -31,12 +31,12 @@ I am a backend-focused engineer architecting scalable microservices and enterpri
 
 ### 🚀 Featured Work
 
-* **Jobs & Courses Recommendation System:** Developed a Python-based engine utilizing Content-Based and Collaborative Filtering. [cite: 127] Leveraged NLP with NLTK for precise text analysis. [cite: 128]
-* **Gesture Control Voice Command:** Designed a hardware-integrated system assisting mute individuals by translating hand gestures into voice commands via a Bluetooth-connected Android device. [cite: 129, 131]
+* **Jobs & Courses Recommendation System:** Developed a Python-based engine utilizing Content-Based and Collaborative Filtering. Leveraged NLP with NLTK for precise text analysis.
+* **Gesture Control Voice Command:** Designed a hardware-integrated system assisting mute individuals by translating hand gestures into voice commands via a Bluetooth-connected Android device.
 
 ### 🏆 Achievements
 
-* **1st Runner-Up - SS&C Technologies GIDS Hackathon 2024:** Secured 2nd position among 40+ teams by developing an innovative Document Digitization solution using Vidado (ICR) technology. [cite: 133, 135] Implemented a template-driven architecture with Spring Boot microservices and Angular frontend. [cite: 136]
+* **1st Runner-Up - SS&C Technologies GIDS Hackathon 2024:** Secured 2nd position among 40+ teams by developing an innovative Document Digitization solution using Vidado (ICR) technology. Implemented a template-driven architecture with Spring Boot microservices and Angular frontend.
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakgawade0)
