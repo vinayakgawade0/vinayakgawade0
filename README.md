@@ -1,25 +1,8 @@
-## Hi there 👋
-
-<!--
-**vinayakgawade0/vinayakgawade0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Vinayak Gawade
 
 **Senior Software Engineer | Microservices | Cloud Native**
 
-I am a backend-focused engineer with 4 years of experience architecting scalable microservices and enterprise solutions. Currently, I am driving architectural decisions at SS&C Technologies, automating complex business workflows and optimizing data pipelines. 
+I am a backend-focused engineer architecting scalable microservices and enterprise solutions. Currently driving architectural decisions, automating complex business workflows, and optimizing data pipelines.
 
 ### 👨‍💻 About Me
 - 🏢 Currently building enterprise-grade systems as a Senior Software Engineer.
@@ -48,11 +31,12 @@ I am a backend-focused engineer with 4 years of experience architecting scalable
 
 ### 🚀 Featured Work
 
-* **Jobs & Courses Recommendation System:** Developed a Python-based engine utilizing Content-Based and Collaborative Filtering, alongside NLP for precise text analysis.
-* **Document Digitization Platform:** Secured 1st Runner-Up at the SS&C GIDS Hackathon 2024 by architecting a template-driven ICR solution using Spring Boot and Angular.
+* **Jobs & Courses Recommendation System:** Developed a Python-based engine utilizing Content-Based and Collaborative Filtering. [cite: 127] Leveraged NLP with NLTK for precise text analysis. [cite: 128]
+* **Gesture Control Voice Command:** Designed a hardware-integrated system assisting mute individuals by translating hand gestures into voice commands via a Bluetooth-connected Android device. [cite: 129, 131]
 
-### 📈 GitHub Stats
-![Vinayak's GitHub Stats](https://streak-stats.demolab.com?user=vinayakgawade0&theme=transparent&hide_border=true)
+### 🏆 Achievements
+
+* **1st Runner-Up - SS&C Technologies GIDS Hackathon 2024:** Secured 2nd position among 40+ teams by developing an innovative Document Digitization solution using Vidado (ICR) technology. [cite: 133, 135] Implemented a template-driven architecture with Spring Boot microservices and Angular frontend. [cite: 136]
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakgawade0)
